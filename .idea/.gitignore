@@ -3,7 +3,7 @@
 /workspace.xml
 
 # Firebase
-/google-services.json
+google-services.json
 
 # Stripe
 /stripe.properties
