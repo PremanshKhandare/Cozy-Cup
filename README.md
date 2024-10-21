@@ -2,8 +2,6 @@
 
 Welcome to **Cozy Cup**! This is a food ordering app built using Java for Android. The app provides a seamless user experience for ordering food, complete with user authentication, a menu, and a secure payment gateway.
 
-![Cozy Cup Logo](images/logo.png)  <!-- Replace with your logo/image path -->
-
 ## Features 🌟
 
 - **User Authentication**: Sign up and log in using Firebase 🔑
@@ -16,17 +14,7 @@ Welcome to **Cozy Cup**! This is a food ordering app built using Java for Androi
 - **Order History**: Review your past orders 📜
 - **Profile Page**: Manage your account information 👤
 - **Payment Gateway**: Securely process payments using Stripe 💳
-
-## Screenshots 📷
-
-### Home Screen
-![Home Screen]("C:\Users\lenovo\Pictures\Screenshots\Screenshot 2024-10-21 171904.png")  <!-- Replace with your image path -->
-
-### Menu
-![Menu](images/menu.png)  <!-- Replace with your image path -->
-
-### Cart
-![Cart](images/cart.png)  <!-- Replace with your image path -->
+- 
 
 ## Technologies Used 🛠️
 
