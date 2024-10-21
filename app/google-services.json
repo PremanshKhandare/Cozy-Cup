@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007126435317",
+    "project_id": "cozy-cup",
+    "storage_bucket": "cozy-cup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007126435317:android:83d3dcd0b328502f6bbcbc",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbj7-SZYAnSwfjYer5qNZ_JaCek5FI8hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

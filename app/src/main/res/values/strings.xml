@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cozy_cup">Cozy Cup</string>
+    <string name="already_have_an_account_login">Already Have An Account ? Login</string>
+    <string name="google">Google</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="or_with">Or With</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="contact_91">Contact : (+91)</string>
+    <string name="username">Username</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="choose_your_location">Choose your location</string>
+    <string name="choose_location">Choose Location</string>
+    <string name="selected_city">Selected City</string>
+    <string name="choosed_city">Selected City</string>
+    <string name="click_to_select_a_city">Click to select a city</string>
+    <string name="to_find_the_nearest_cozy_cup_caf_and_offer_location_based_deals_we_need_access_to_your_location_your_privacy_is_important_and_we_won_t_share_your_data">To find the nearest Cozy Cup Café and offer location-based deals, we need access to your location. Your privacy is important, and we won’t share your data.</string>
+    <string name="chklk">Choose your location</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="search">Search</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="savor_the_flavour">Savor the flavour</string>
+    <string name="proceed">Proceed</string>
+    <string name="carrt">Cart</string>
+    <string name="textview">TextView</string>
+    <string name="_1">1</string>
+    <string name="textviewa">TextView</string>
+    <string name="menu">Menu</string>
+</resources>
