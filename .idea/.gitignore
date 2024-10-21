@@ -1,0 +1,22 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Firebase
+/google-services.json
+
+# Stripe
+/stripe.properties
+
+# Build directories
+/build/
+
+# Local configuration (usually includes SDK paths)
+/local.properties
+
+# IDE-related files
+/.idea/
+/*.iml
+
+# Miscellaneous
+.DS_Store  # for macOS users
