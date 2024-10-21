@@ -1,6 +1,3 @@
-Here’s the final version of your README file for Cozy Cup, ready for your GitHub repository:
-
-```markdown
 # Cozy Cup ☕️
 
 Welcome to **Cozy Cup**! This is a food ordering app built using Java for Android. The app provides a seamless user experience for ordering food, complete with user authentication, a menu, and a secure payment gateway.
