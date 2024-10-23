@@ -38,18 +38,18 @@ To get started with Cozy Cup, follow these steps:
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="./screens/1.jpg" alt="Screenshot 1" style="width: 150px; height: 250px;"/>
-    <img src="./screens/2.jpg" alt="Screenshot 2" style="width: 150px; height: 250px;"/>
-    <img src="./screens/3.jpg" alt="Screenshot 3" style="width: 150px; height: 250px;"/>
-    <img src="./screens/4.jpg" alt="Screenshot 4" style="width: 150px; height: 250px;"/>
-    <img src="./screens/5.jpg" alt="Screenshot 5" style="width: 150px; height: 250px;"/>
-    <img src="./screens/6.jpg" alt="Screenshot 6" style="width: 150px; height: 250px;"/>
-    <img src="./screens/7.jpg" alt="Screenshot 1" style="width: 150px; height: 250px;"/>
-    <img src="./screens/8.jpg" alt="Screenshot 2" style="width: 150px; height: 250px;"/>
-    <img src="./screens/9.jpg" alt="Screenshot 3" style="width: 150px; height: 250px;"/>
-    <img src="./screens/10.jpg" alt="Screenshot 4" style="width: 150px; height: 250px;"/>
-    <img src="./screens/11.jpg" alt="Screenshot 5" style="width: 150px; height: 250px;"/>
-    <img src="./screens/12.jpg" alt="Screenshot 6" style="width: 150px; height: 250px;"/>
+    <img src="./screens/1.png" alt="Screenshot 1" style="width: 150px; height: 250px;"/>
+    <img src="./screens/2.png" alt="Screenshot 2" style="width: 150px; height: 250px;"/>
+    <img src="./screens/3.png" alt="Screenshot 3" style="width: 150px; height: 250px;"/>
+    <img src="./screens/4.png" alt="Screenshot 4" style="width: 150px; height: 250px;"/>
+    <img src="./screens/5.png" alt="Screenshot 5" style="width: 150px; height: 250px;"/>
+    <img src="./screens/6.png" alt="Screenshot 6" style="width: 150px; height: 250px;"/>
+    <img src="./screens/7.png" alt="Screenshot 7" style="width: 150px; height: 250px;"/>
+    <img src="./screens/8.png" alt="Screenshot 8" style="width: 150px; height: 250px;"/>
+    <img src="./screens/9.png" alt="Screenshot 9" style="width: 150px; height: 250px;"/>
+    <img src="./screens/10.png" alt="Screenshot 10" style="width: 150px; height: 250px;"/>
+    <img src="./screens/11.png" alt="Screenshot 11" style="width: 150px; height: 250px;"/>
+    <img src="./screens/12.png" alt="Screenshot 12" style="width: 150px; height: 250px;"/>
 </div>
 
 
