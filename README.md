@@ -28,12 +28,23 @@ To get started with Cozy Cup, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CozyCup.git
+   git clone https://github.com/PremanshKhandare/CozyCup.git
    ```
 2. Open the project in Android Studio.
 3. Add your Firebase configuration file (`google-services.json`) to the `app` directory.
 4. Replace the Stripe test API keys in the code with your own for testing.
 5. Build and run the app on your Android device or emulator!
+
+## Screenshots
+
+![](./screens/11.jpg)
+![](./screens/22.jpg)
+![](./screens/33.jpg)
+![](./screens/44.jpg)
+![](./screens/55.jpg)
+![](./screens/66.jpg)
+![](./screens/77.jpg)
+![](./screens/88.jpg)
 
 ## Contributing 🤝
 
