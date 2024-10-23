@@ -48,14 +48,16 @@ To get started with Cozy Cup, follow these steps:
 
 ## Screenshots
 
-<img src="./screens/11.jpg" alt="Screenshot 1" style="width:150px; height:250px;"/>
-<img src="./screens/22.jpg" alt="Screenshot 2" style="width:150px; height:250px;"/>
-<img src="./screens/33.jpg" alt="Screenshot 3" style="width:150px; height:250px;"/>
-<img src="./screens/44.jpg" alt="Screenshot 4" style="width:150px; height:250px;"/>
-<img src="./screens/55.jpg" alt="Screenshot 5" style="width:150px; height:250px;"/>
-<img src="./screens/66.jpg" alt="Screenshot 6" style="width:150px; height:250px;"/>
-<img src="./screens/77.jpg" alt="Screenshot 7" style="width:150px; height:250px;"/>
-<img src="./screens/88.jpg" alt="Screenshot 8" style="width:150px; height:250px;"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="./screens/11.jpg" alt="Screenshot 1" style="width: 150px; height: 250px;"/>
+    <img src="./screens/22.jpg" alt="Screenshot 2" style="width: 150px; height: 250px;"/>
+    <img src="./screens/33.jpg" alt="Screenshot 3" style="width: 150px; height: 250px;"/>
+    <img src="./screens/44.jpg" alt="Screenshot 4" style="width: 150px; height: 250px;"/>
+    <img src="./screens/55.jpg" alt="Screenshot 5" style="width: 150px; height: 250px;"/>
+    <img src="./screens/66.jpg" alt="Screenshot 6" style="width: 150px; height: 250px;"/>
+    <img src="./screens/77.jpg" alt="Screenshot 7" style="width: 150px; height: 250px;"/>
+    <img src="./screens/88.jpg" alt="Screenshot 8" style="width: 150px; height: 250px;"/>
+</div>
 
 
 ## Contributing 🤝
